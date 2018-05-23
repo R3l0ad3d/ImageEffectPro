@@ -1,0 +1,1270 @@
+[
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\anim-land_app_name_animation_back.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\anim-land\\app_name_animation_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\anim-land_holder_top_back.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\anim-land\\holder_top_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_effect_vignette.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-hdpi\\ic_effect_vignette.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_effect_invert.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-hdpi\\ic_effect_invert.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_appthemegreen_scrubber_secondary_holo.9.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xhdpi\\appthemegreen_scrubber_secondary_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_appthemeblue_scrubber_control_disabled_holo.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-hdpi\\appthemeblue_scrubber_control_disabled_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_activity_splash.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\layout-land\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_effect_flip.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxhdpi\\ic_effect_flip.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_appthemecolorize_btn_default_normal_holo_dark.9.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-hdpi\\appthemecolorize_btn_default_normal_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\anim-land_holder_top_back_fast.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\anim-land\\holder_top_back_fast.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\anim_holder_top_back.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\anim\\holder_top_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_appthemecolorize_btn_default_disabled_focused_holo_dark.9.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-hdpi\\appthemecolorize_btn_default_disabled_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout_holder_tint.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\layout\\holder_tint.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_effect_invert.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxhdpi\\ic_effect_invert.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_appthemeblue_scrubber_control_normal_holo.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-mdpi\\appthemeblue_scrubber_control_normal_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_holder_filters.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\layout-land\\holder_filters.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_loading.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\layout\\dialog_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_effect_boost.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-mdpi\\ic_effect_boost.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_appthemeblue_scrubber_control_disabled_holo.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxhdpi\\appthemeblue_scrubber_control_disabled_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_appthemegreen_scrubber_control_disabled_holo.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-mdpi\\appthemegreen_scrubber_control_disabled_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_device_access_camera.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-mdpi\\ic_device_access_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_effect_gamma.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-mdpi\\ic_effect_gamma.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_appthemecolorize_scrubber_control_focused_holo.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xhdpi\\appthemecolorize_scrubber_control_focused_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable_appthemegreen_scrubber_control_selector_holo_dark.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable\\appthemegreen_scrubber_control_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\anim-land_app_name_animation.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\anim-land\\app_name_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_effect_brightness.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-hdpi\\ic_effect_brightness.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_appthemeblue_scrubber_control_pressed_holo.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xhdpi\\appthemeblue_scrubber_control_pressed_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\anim_app_name_animation_back.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\anim\\app_name_animation_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_appthemecolorize_scrubber_control_normal_holo.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-hdpi\\appthemecolorize_scrubber_control_normal_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_appthemeblue_scrubber_control_pressed_holo.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-hdpi\\appthemeblue_scrubber_control_pressed_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_appthemeblue_scrubber_primary_holo.9.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-hdpi\\appthemeblue_scrubber_primary_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout_holder_gamma.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\layout\\holder_gamma.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout_holder_boost.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\layout\\holder_boost.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\anim_step_number.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\anim\\step_number.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_appthemeblue_scrubber_track_holo_dark.9.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-hdpi\\appthemeblue_scrubber_track_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_appthemecolorize_scrubber_track_holo_dark.9.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-hdpi\\appthemecolorize_scrubber_track_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_content_picture.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-hdpi\\ic_content_picture.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_effect_colordepth.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-hdpi\\ic_effect_colordepth.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_effect_colordepth.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xhdpi\\ic_effect_colordepth.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_effect_hue.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-hdpi\\ic_effect_hue.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_effect_sepia.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xhdpi\\ic_effect_sepia.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_undo.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xhdpi\\ic_undo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_appthemeblue_scrubber_control_focused_holo.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-mdpi\\appthemeblue_scrubber_control_focused_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_provider.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-hdpi\\ic_provider.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\anim-land_holder_bottom_back.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\anim-land\\holder_bottom_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_effect_sketch.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxhdpi\\ic_effect_sketch.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_appthemecolorize_scrubber_secondary_holo.9.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xhdpi\\appthemecolorize_scrubber_secondary_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_effect_blur.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-mdpi\\ic_effect_blur.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_appthemegreen_scrubber_control_focused_holo.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-mdpi\\appthemegreen_scrubber_control_focused_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_effect_colordepth.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-mdpi\\ic_effect_colordepth.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_device_access_camera.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-hdpi\\ic_device_access_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_cancel.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-hdpi\\ic_cancel.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_appthemecolorize_scrubber_secondary_holo.9.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxhdpi\\appthemecolorize_scrubber_secondary_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_accept.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-hdpi\\ic_accept.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_effect_sketch.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-hdpi\\ic_effect_sketch.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_effect_blur.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-hdpi\\ic_effect_blur.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_cancel.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxhdpi\\ic_cancel.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_appthemecolorize_btn_default_focused_holo_dark.9.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-hdpi\\appthemecolorize_btn_default_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\anim-land_logo_animation.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\anim-land\\logo_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_effects.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxhdpi\\ic_effects.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_appthemegreen_scrubber_control_normal_holo.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-mdpi\\appthemegreen_scrubber_control_normal_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\anim_app_name_animation.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\anim\\app_name_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_arrows.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-hdpi\\ic_arrows.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_appthemecolorize_scrubber_control_disabled_holo.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-hdpi\\appthemecolorize_scrubber_control_disabled_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout_holder_saturation.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\layout\\holder_saturation.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_appthemecolorize_scrubber_control_normal_holo.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxhdpi\\appthemecolorize_scrubber_control_normal_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_effect_contrast.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxhdpi\\ic_effect_contrast.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_appthemeblue_scrubber_control_normal_holo.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxhdpi\\appthemeblue_scrubber_control_normal_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_holder_apply_filter.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\layout-land\\holder_apply_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\anim_holder_bottom_back_fast.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\anim\\holder_bottom_back_fast.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_appthemecolorize_scrubber_primary_holo.9.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xhdpi\\appthemecolorize_scrubber_primary_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout_holder_cdepth.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\layout\\holder_cdepth.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\anim_left_to_right_dellayed_out.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\anim\\left_to_right_dellayed_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_effect_sepia.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-hdpi\\ic_effect_sepia.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_photo.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\layout\\activity_photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_holder_cbalance.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\layout-land\\holder_cbalance.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_effect_tint.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-mdpi\\ic_effect_tint.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_appthemegreen_scrubber_track_holo_dark.9.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-hdpi\\appthemegreen_scrubber_track_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_effect_noise.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xhdpi\\ic_effect_noise.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_effect_sharpen.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-hdpi\\ic_effect_sharpen.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_appthemegreen_scrubber_primary_holo.9.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxhdpi\\appthemegreen_scrubber_primary_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout_holder_apply_filter.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\layout\\holder_apply_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_effect_brightness.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-mdpi\\ic_effect_brightness.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_appthemecolorize_scrubber_control_pressed_holo.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-hdpi\\appthemecolorize_scrubber_control_pressed_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_effect_gamma.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-hdpi\\ic_effect_gamma.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\anim_effect_box.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\anim\\effect_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_effect_grayscale.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-hdpi\\ic_effect_grayscale.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_effect_colorbalance.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xhdpi\\ic_effect_colorbalance.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_appthemeblue_scrubber_control_disabled_holo.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xhdpi\\appthemeblue_scrubber_control_disabled_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_effect_boost.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-hdpi\\ic_effect_boost.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_effect_grayscale.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-mdpi\\ic_effect_grayscale.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_effect_blur.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xhdpi\\ic_effect_blur.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\anim-land_effect_box_back.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\anim-land\\effect_box_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_effect_vignette.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxhdpi\\ic_effect_vignette.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_appthemecolorize_btn_default_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xhdpi\\appthemecolorize_btn_default_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_effect_colorbalance.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-hdpi\\ic_effect_colorbalance.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_appthemecolorize_btn_default_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxhdpi\\appthemecolorize_btn_default_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_appthemecolorize_scrubber_control_disabled_holo.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xhdpi\\appthemecolorize_scrubber_control_disabled_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_provider.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-mdpi\\ic_provider.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_appthemecolorize_scrubber_secondary_holo.9.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-hdpi\\appthemecolorize_scrubber_secondary_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\anim-land_holder_top_fast.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\anim-land\\holder_top_fast.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_effect_hue.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxhdpi\\ic_effect_hue.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_appthemecolorize_scrubber_control_focused_holo.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-mdpi\\appthemecolorize_scrubber_control_focused_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_device_access_camera.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xhdpi\\ic_device_access_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_appthemegreen_scrubber_control_focused_holo.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-hdpi\\appthemegreen_scrubber_control_focused_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_effect_contrast.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-hdpi\\ic_effect_contrast.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_loading.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxhdpi\\ic_loading.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_effect_invert.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xhdpi\\ic_effect_invert.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_holder_tint.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\layout-land\\holder_tint.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_effect_gaussian.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-hdpi\\ic_effect_gaussian.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_effect_flip.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xhdpi\\ic_effect_flip.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_effect_emboss.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xhdpi\\ic_effect_emboss.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout_holder_contrast.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\layout\\holder_contrast.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\anim_step_number_back.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\anim\\step_number_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_effect_vignette.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-mdpi\\ic_effect_vignette.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable_appthemecolorize_scrubber_control_selector_holo_dark.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable\\appthemecolorize_scrubber_control_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_holder_contrast.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\layout-land\\holder_contrast.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_effect_emboss.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-mdpi\\ic_effect_emboss.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_effects.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-mdpi\\ic_effects.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_appthemegreen_scrubber_control_focused_holo.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xhdpi\\appthemegreen_scrubber_control_focused_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_effect_tint.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xhdpi\\ic_effect_tint.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_effect_saturation.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxhdpi\\ic_effect_saturation.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_effects.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-hdpi\\ic_effects.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_appthemecolorize_btn_default_normal_holo_dark.9.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xhdpi\\appthemecolorize_btn_default_normal_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_appthemecolorize_scrubber_track_holo_dark.9.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxhdpi\\appthemecolorize_scrubber_track_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_effect_sepia.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-mdpi\\ic_effect_sepia.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_appthemegreen_scrubber_track_holo_dark.9.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxhdpi\\appthemegreen_scrubber_track_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_effect_invert.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-mdpi\\ic_effect_invert.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_appthemeblue_scrubber_track_holo_dark.9.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xhdpi\\appthemeblue_scrubber_track_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_appthemegreen_scrubber_control_normal_holo.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxhdpi\\appthemegreen_scrubber_control_normal_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_effect_noise.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxhdpi\\ic_effect_noise.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_appthemecolorize_scrubber_control_pressed_holo.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xhdpi\\appthemecolorize_scrubber_control_pressed_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_appthemegreen_scrubber_control_normal_holo.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xhdpi\\appthemegreen_scrubber_control_normal_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_appthemeblue_scrubber_track_holo_dark.9.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-mdpi\\appthemeblue_scrubber_track_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_provider.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxhdpi\\ic_provider.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\anim_right_to_left_out.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\anim\\right_to_left_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_appthemegreen_scrubber_control_pressed_holo.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxhdpi\\appthemegreen_scrubber_control_pressed_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_effect_sharpen.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-mdpi\\ic_effect_sharpen.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_appthemeblue_scrubber_secondary_holo.9.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xhdpi\\appthemeblue_scrubber_secondary_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_effect_gaussian.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xhdpi\\ic_effect_gaussian.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_content_picture.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxhdpi\\ic_content_picture.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\anim_right_to_left.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\anim\\right_to_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_appthemeblue_scrubber_track_holo_dark.9.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxhdpi\\appthemeblue_scrubber_track_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_save.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xhdpi\\ic_save.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_effect_colorbalance.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-mdpi\\ic_effect_colorbalance.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_appthemeblue_scrubber_secondary_holo.9.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-hdpi\\appthemeblue_scrubber_secondary_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_lg.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher_lg.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_appthemegreen_scrubber_control_disabled_holo.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xhdpi\\appthemegreen_scrubber_control_disabled_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_appthemecolorize_btn_default_normal_holo_dark.9.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-mdpi\\appthemecolorize_btn_default_normal_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_holder_cdepth.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\layout-land\\holder_cdepth.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_appthemecolorize_btn_default_focused_holo_dark.9.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxhdpi\\appthemecolorize_btn_default_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_holder_saturation.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\layout-land\\holder_saturation.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_appthemegreen_scrubber_track_holo_dark.9.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xhdpi\\appthemegreen_scrubber_track_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_lg.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher_lg.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_appthemecolorize_scrubber_primary_holo.9.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxhdpi\\appthemecolorize_scrubber_primary_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_effect_contrast.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xhdpi\\ic_effect_contrast.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_appthemegreen_scrubber_primary_holo.9.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xhdpi\\appthemegreen_scrubber_primary_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout_holder_cbalance.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\layout\\holder_cbalance.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_appthemecolorize_btn_default_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-mdpi\\appthemecolorize_btn_default_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_arrows.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xhdpi\\ic_arrows.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_content_picture.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-mdpi\\ic_content_picture.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_appthemecolorize_btn_default_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxhdpi\\appthemecolorize_btn_default_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_appthemeblue_scrubber_control_disabled_holo.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-mdpi\\appthemeblue_scrubber_control_disabled_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_appthemecolorize_btn_default_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xhdpi\\appthemecolorize_btn_default_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_appthemeblue_scrubber_control_focused_holo.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-hdpi\\appthemeblue_scrubber_control_focused_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_effect_emboss.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxhdpi\\ic_effect_emboss.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\anim-land_pro_animation_back.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\anim-land\\pro_animation_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_undo.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxhdpi\\ic_undo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_appthemeblue_scrubber_secondary_holo.9.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-mdpi\\appthemeblue_scrubber_secondary_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_appthemegreen_scrubber_track_holo_dark.9.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-mdpi\\appthemegreen_scrubber_track_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_appthemecolorize_scrubber_control_disabled_holo.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-mdpi\\appthemecolorize_scrubber_control_disabled_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_effect_flip.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-hdpi\\ic_effect_flip.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_effect_grayscale.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxhdpi\\ic_effect_grayscale.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_effect_sketch.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-mdpi\\ic_effect_sketch.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_loading.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-hdpi\\ic_loading.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_effect_noise.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-mdpi\\ic_effect_noise.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_effect_sharpen.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxhdpi\\ic_effect_sharpen.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_effect_contrast.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-mdpi\\ic_effect_contrast.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\anim_logo_animation_back.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\anim\\logo_animation_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_effect_sketch.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xhdpi\\ic_effect_sketch.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_save.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxhdpi\\ic_save.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_appthemecolorize_btn_default_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-mdpi\\appthemecolorize_btn_default_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\anim_left_to_right.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\anim\\left_to_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_appthemeblue_scrubber_control_focused_holo.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xhdpi\\appthemeblue_scrubber_control_focused_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_appthemecolorize_scrubber_primary_holo.9.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-hdpi\\appthemecolorize_scrubber_primary_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\anim-land_holder_bottom_fast.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\anim-land\\holder_bottom_fast.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_appthemecolorize_scrubber_secondary_holo.9.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-mdpi\\appthemecolorize_scrubber_secondary_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable_appthemegreen_scrubber_progress_horizontal_holo_dark.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable\\appthemegreen_scrubber_progress_horizontal_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_appthemeblue_scrubber_primary_holo.9.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-mdpi\\appthemeblue_scrubber_primary_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\anim-land_holder_bottom.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\anim-land\\holder_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_holder_save.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\layout-land\\holder_save.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_appthemeblue_scrubber_control_pressed_holo.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-mdpi\\appthemeblue_scrubber_control_pressed_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_effect_emboss.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-hdpi\\ic_effect_emboss.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_appthemecolorize_scrubber_control_disabled_holo.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxhdpi\\appthemecolorize_scrubber_control_disabled_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_lg.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher_lg.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_back.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\layout\\dialog_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable_appthemecolorize_btn_default_holo_dark.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable\\appthemecolorize_btn_default_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_cancel.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xhdpi\\ic_cancel.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_loading.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xhdpi\\ic_loading.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable_appthemecolorize_scrubber_progress_horizontal_holo_dark.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable\\appthemecolorize_scrubber_progress_horizontal_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_appthemeblue_scrubber_control_pressed_holo.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxhdpi\\appthemeblue_scrubber_control_pressed_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_appthemecolorize_scrubber_primary_holo.9.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-mdpi\\appthemecolorize_scrubber_primary_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\anim_holder_bottom_back.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\anim\\holder_bottom_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_appthemeblue_scrubber_primary_holo.9.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xhdpi\\appthemeblue_scrubber_primary_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_appthemegreen_scrubber_control_pressed_holo.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-mdpi\\appthemegreen_scrubber_control_pressed_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\anim_holder_bottom_fast.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\anim\\holder_bottom_fast.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_effect_brightness.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxhdpi\\ic_effect_brightness.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_holder_brightness.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\layout-land\\holder_brightness.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_loading.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-mdpi\\ic_loading.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\anim_holder_top.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\anim\\holder_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_holder_flip.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\layout-land\\holder_flip.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout_holder_hue.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\layout\\holder_hue.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_effect_gamma.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xhdpi\\ic_effect_gamma.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_effect_boost.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xhdpi\\ic_effect_boost.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_appthemecolorize_scrubber_control_normal_holo.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-mdpi\\appthemecolorize_scrubber_control_normal_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_appthemecolorize_btn_default_disabled_focused_holo_dark.9.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxhdpi\\appthemecolorize_btn_default_disabled_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_appthemecolorize_btn_default_focused_holo_dark.9.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xhdpi\\appthemecolorize_btn_default_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\anim_right_to_left_dellayed.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\anim\\right_to_left_dellayed.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_effect_gaussian.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxhdpi\\ic_effect_gaussian.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_content_picture.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xhdpi\\ic_content_picture.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_effect_blur.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxhdpi\\ic_effect_blur.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_undo.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-mdpi\\ic_undo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_accept.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xhdpi\\ic_accept.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_appthemegreen_scrubber_secondary_holo.9.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-hdpi\\appthemegreen_scrubber_secondary_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable_appthemeblue_scrubber_progress_horizontal_holo_dark.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable\\appthemeblue_scrubber_progress_horizontal_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_appthemegreen_scrubber_primary_holo.9.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-hdpi\\appthemegreen_scrubber_primary_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_appthemecolorize_scrubber_control_focused_holo.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxhdpi\\appthemecolorize_scrubber_control_focused_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_appthemegreen_scrubber_control_normal_holo.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-hdpi\\appthemegreen_scrubber_control_normal_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_appthemecolorize_scrubber_track_holo_dark.9.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-mdpi\\appthemecolorize_scrubber_track_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_appthemeblue_scrubber_secondary_holo.9.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxhdpi\\appthemeblue_scrubber_secondary_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_effect_flip.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-mdpi\\ic_effect_flip.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_effect_saturation.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xhdpi\\ic_effect_saturation.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_effect_saturation.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-mdpi\\ic_effect_saturation.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_effect_saturation.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-hdpi\\ic_effect_saturation.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_appthemecolorize_btn_default_focused_holo_dark.9.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-mdpi\\appthemecolorize_btn_default_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\anim-land_effect_box.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\anim-land\\effect_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circle_step.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable\\circle_step.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_effect_gaussian.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-mdpi\\ic_effect_gaussian.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_effect_sepia.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxhdpi\\ic_effect_sepia.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_appthemecolorize_scrubber_control_focused_holo.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-hdpi\\appthemecolorize_scrubber_control_focused_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_appthemegreen_scrubber_primary_holo.9.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-mdpi\\appthemegreen_scrubber_primary_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_effect_tint.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxhdpi\\ic_effect_tint.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\anim_left_to_right_dellayed.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\anim\\left_to_right_dellayed.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_activity_main.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\layout-land\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_effect_grayscale.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xhdpi\\ic_effect_grayscale.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_appthemecolorize_btn_default_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-hdpi\\appthemecolorize_btn_default_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable_appthemeblue_scrubber_control_selector_holo_dark.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable\\appthemeblue_scrubber_control_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\anim_left_to_right_out.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\anim\\left_to_right_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_effect_tint.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-hdpi\\ic_effect_tint.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_effect_gamma.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxhdpi\\ic_effect_gamma.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_appthemecolorize_scrubber_control_pressed_holo.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxhdpi\\appthemecolorize_scrubber_control_pressed_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_effect_hue.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-mdpi\\ic_effect_hue.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_appthemegreen_scrubber_secondary_holo.9.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxhdpi\\appthemegreen_scrubber_secondary_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_effect_boost.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxhdpi\\ic_effect_boost.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\anim_pro_animation_back.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\anim\\pro_animation_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_undo.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-hdpi\\ic_undo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout_holder_flip.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\layout\\holder_flip.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\anim_effect_box_back.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\anim\\effect_box_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_effect_brightness.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xhdpi\\ic_effect_brightness.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_accept.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxhdpi\\ic_accept.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_device_access_camera.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxhdpi\\ic_device_access_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_effect_vignette.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xhdpi\\ic_effect_vignette.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_save.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-hdpi\\ic_save.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\anim_right_to_left_dellayed_out.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\anim\\right_to_left_dellayed_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\anim_pro_animation.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\anim\\pro_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_appthemecolorize_scrubber_track_holo_dark.9.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xhdpi\\appthemecolorize_scrubber_track_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_effect_colorbalance.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxhdpi\\ic_effect_colorbalance.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_appthemecolorize_scrubber_control_normal_holo.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xhdpi\\appthemecolorize_scrubber_control_normal_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\anim_holder_top_fast.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\anim\\holder_top_fast.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_appthemeblue_scrubber_control_focused_holo.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxhdpi\\appthemeblue_scrubber_control_focused_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_arrows.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxhdpi\\ic_arrows.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_appthemegreen_scrubber_control_pressed_holo.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-hdpi\\appthemegreen_scrubber_control_pressed_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout_holder_filters.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\layout\\holder_filters.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\anim_holder_top_back_fast.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\anim\\holder_top_back_fast.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_arrows.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-mdpi\\ic_arrows.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_appthemecolorize_btn_default_disabled_focused_holo_dark.9.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xhdpi\\appthemecolorize_btn_default_disabled_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\anim-land_pro_animation.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\anim-land\\pro_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\anim-land_logo_animation_back.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\anim-land\\logo_animation_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\anim_logo_animation.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\anim\\logo_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout_holder_brightness.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\layout\\holder_brightness.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_provider.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xhdpi\\ic_provider.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_appthemecolorize_scrubber_control_pressed_holo.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-mdpi\\appthemecolorize_scrubber_control_pressed_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_effects.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xhdpi\\ic_effects.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_appthemecolorize_btn_default_normal_holo_dark.9.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxhdpi\\appthemecolorize_btn_default_normal_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_appthemeblue_scrubber_primary_holo.9.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxhdpi\\appthemeblue_scrubber_primary_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_appthemeblue_scrubber_control_normal_holo.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xhdpi\\appthemeblue_scrubber_control_normal_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_accept.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-mdpi\\ic_accept.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\anim_loading.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\anim\\loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_holder_hue.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\layout-land\\holder_hue.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_effect_noise.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-hdpi\\ic_effect_noise.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\anim-land_holder_top.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\anim-land\\holder_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_effect_sharpen.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xhdpi\\ic_effect_sharpen.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\anim-land_holder_bottom_back_fast.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\anim-land\\holder_bottom_back_fast.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_holder_boost.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\layout-land\\holder_boost.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_holder_gamma.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\layout-land\\holder_gamma.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_appthemegreen_scrubber_secondary_holo.9.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-mdpi\\appthemegreen_scrubber_secondary_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_appthemegreen_scrubber_control_disabled_holo.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-hdpi\\appthemegreen_scrubber_control_disabled_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_appthemegreen_scrubber_control_focused_holo.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxhdpi\\appthemegreen_scrubber_control_focused_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_appthemecolorize_btn_default_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-hdpi\\appthemecolorize_btn_default_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_lg.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher_lg.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_effect_colordepth.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxhdpi\\ic_effect_colordepth.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout_holder_save.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\layout\\holder_save.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_effect_hue.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xhdpi\\ic_effect_hue.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_appthemeblue_scrubber_control_normal_holo.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-hdpi\\appthemeblue_scrubber_control_normal_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_save.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-mdpi\\ic_save.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_appthemegreen_scrubber_control_pressed_holo.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xhdpi\\appthemegreen_scrubber_control_pressed_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_appthemecolorize_btn_default_disabled_focused_holo_dark.9.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-mdpi\\appthemecolorize_btn_default_disabled_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\anim_holder_bottom.xml.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\anim\\holder_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_appthemegreen_scrubber_control_disabled_holo.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-xxhdpi\\appthemegreen_scrubber_control_disabled_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_cancel.png.flat",
+        "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\drawable-mdpi\\ic_cancel.png"
+    }
+]

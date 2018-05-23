@@ -1,0 +1,142 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\values-v11\\styles_appthemeblue.xml",
+                    "from": {
+                        "startLines": "5",
+                        "startColumns": "2",
+                        "startOffsets": "169",
+                        "endLines": "9",
+                        "endColumns": "10",
+                        "endOffsets": "581"
+                    },
+                    "to": {
+                        "startLines": "30",
+                        "startColumns": "4",
+                        "startOffsets": "1261",
+                        "endLines": "34",
+                        "endColumns": "10",
+                        "endOffsets": "1673"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\values-v11\\styles_appthemecolorize.xml",
+                    "from": {
+                        "startLines": "5,9,13",
+                        "startColumns": "2,2,2",
+                        "startOffsets": "169,348,537",
+                        "endLines": "7,11,17",
+                        "endColumns": "10,10,10",
+                        "endOffsets": "344,533,965"
+                    },
+                    "to": {
+                        "startLines": "24,27,35",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "891,1071,1678",
+                        "endLines": "26,29,39",
+                        "endColumns": "10,10,10",
+                        "endOffsets": "1066,1256,2106"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\values-v11\\themes_appthemecolorize.xml",
+                    "from": {
+                        "startLines": "5",
+                        "startColumns": "2",
+                        "startOffsets": "169",
+                        "endLines": "13",
+                        "endColumns": "10",
+                        "endOffsets": "502"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "381",
+                        "endLines": "18",
+                        "endColumns": "10",
+                        "endOffsets": "714"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\values-v11\\themes_appthemegreen.xml",
+                    "from": {
+                        "startLines": "5",
+                        "startColumns": "2",
+                        "startOffsets": "169",
+                        "endLines": "9",
+                        "endColumns": "10",
+                        "endOffsets": "336"
+                    },
+                    "to": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "719",
+                        "endLines": "23",
+                        "endColumns": "10",
+                        "endOffsets": "886"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\values-v11\\styles_appthemegreen.xml",
+                    "from": {
+                        "startLines": "5",
+                        "startColumns": "2",
+                        "startOffsets": "169",
+                        "endLines": "9",
+                        "endColumns": "10",
+                        "endOffsets": "585"
+                    },
+                    "to": {
+                        "startLines": "40",
+                        "startColumns": "4",
+                        "startOffsets": "2111",
+                        "endLines": "44",
+                        "endColumns": "10",
+                        "endOffsets": "2527"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "177",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "328"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "206"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\User\\Downloads\\Effects-Pro-1.0\\app\\src\\main\\res\\values-v11\\themes_appthemeblue.xml",
+                    "from": {
+                        "startLines": "5",
+                        "startColumns": "2",
+                        "startOffsets": "169",
+                        "endLines": "9",
+                        "endColumns": "10",
+                        "endOffsets": "334"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "211",
+                        "endLines": "9",
+                        "endColumns": "10",
+                        "endOffsets": "376"
+                    }
+                }
+            ]
+        }
+    ]
+}
